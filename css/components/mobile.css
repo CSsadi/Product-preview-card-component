@@ -1,0 +1,33 @@
+
+
+@media(max-width:600px){
+   .card{
+    flex-direction: column;
+    width: 350px;
+    margin: 3rem 0;
+    border-radius :1rem;
+   }
+   .img-desktop{
+    display: none;
+   }
+   .mobile-img{
+    display: block;
+    width: 100%;
+   }
+
+   .texts{
+    width: 100%;
+   }
+
+   .price-before{
+    right: 6rem;
+    bottom: 1.5rem;
+   }
+
+   .attribution{
+ display: none;
+   }
+
+
+  
+}

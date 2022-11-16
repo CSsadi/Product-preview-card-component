@@ -1,0 +1,9 @@
+:root{
+    --backgroundBody:hsl(30, 38%, 92%);
+    --backgroundCard:hsl(0, 0%, 100%);
+    --backgroundBtn:hsl(158, 36%, 37%);
+    --colorPrice:hsl(158, 36%, 37%);
+    --colorTexts: hsl(228, 12%, 48%);
+    --colorNamePerfum:hsl(212, 21%, 14%);
+    --colorHoverBtn:hsl(212, 21%, 14%);
+}
