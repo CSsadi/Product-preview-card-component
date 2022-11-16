@@ -2,6 +2,7 @@
     width: 550px;
     display: flex;
     background-color: var(--backgroundCard);
+    border-radius:10px;
     
 }
 
